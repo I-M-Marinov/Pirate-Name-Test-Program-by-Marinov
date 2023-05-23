@@ -444,6 +444,9 @@ namespace ConsoleApp1
             Console.WriteLine($"                {firstNameLetter} {lastLetterOfFirstName} {firstLetterOfSurname} arrrrrrr !             ");
             Console.WriteLine("*********************************************************");
 
+            Console.WriteLine();
+            Console.WriteLine();
+
             Console.WriteLine("Thank you for checking out my test program :) Have a nice day ! ");
             Environment.Exit(50);
         }
